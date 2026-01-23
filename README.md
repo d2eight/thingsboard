@@ -127,17 +127,17 @@ ThingsBoard is a scalable, user-friendly, and device-agnostic IoT platform that 
 
 [![Fleet tracking](https://github.com/user-attachments/assets/68cbf9cd-f9e2-44a6-aede-793174e3613f "Fleet tracking")](https://thingsboard.io/use-cases/fleet-tracking/)
 
-[site-fleet-tracking.webm](https://github.com/user-attachments/assets/7744f25b-6735-43bc-9b8d-a28d3854cf06)
-
-https://github.com/user-attachments/assets/94c55049-5469-474f-8e20-122c5120f3ed
-
 [**Smart farming**](https://thingsboard.io/use-cases/smart-farming/)
 
 [![Smart farming](https://github.com/user-attachments/assets/56b84c99-ef24-44e5-a903-b925b7f9d142 "Smart farming")](https://thingsboard.io/use-cases/smart-farming/)
 
 [**Smart metering**](https://thingsboard.io/smart-metering/)
-
+  
 [![Smart metering](https://github.com/user-attachments/assets/adc05e3d-397c-48ef-bed6-535bbd698455 "Smart metering")](https://thingsboard.io/smart-metering/)
+
+![mine-site-monitoring-preview (4)](https://github.com/user-attachments/assets/836ec3f0-4bfb-4c5b-967e-4d3f6beff1a3)
+
+
 
 <div align="center">
 
@@ -151,4 +151,5 @@ To get support, please visit our [GitHub issues page](https://github.com/thingsb
 
 ## 📄 Licenses
 
-This project is released under [Apache 2.0 License](./LICENSE)
+This project is released under ![Uploading mine-site-monitoring-preview (4).gif…]()
+[Apache 2.0 License](./LICENSE)
